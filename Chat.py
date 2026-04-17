@@ -95,3 +95,6 @@ for student, score in students.items():
         print("*")
         print("sonam")
         print()
+
+    print("karma wangdi")
+    
