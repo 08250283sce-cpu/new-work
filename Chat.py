@@ -93,3 +93,5 @@ for student, score in students.items():
     print("Stars Pattern:")
     for i in range(score):
         print("*")
+        print("sonam")
+        print()
